@@ -3,6 +3,20 @@ body {
     }
     
     h1 {
-    color: navy;
-    margin-left: 20px;
+    color: darkcyan;
+   
+    text-align: center;
     }
+    p{
+        color: darkcyan;
+        text-align: center;
+        font-size: 1.5rem;
+    }
+    .main{
+        display: flex;
+        flex-direction: column;
+        justify-content:center;
+        align-items: center;
+        height: 80vh;
+    }
+   
